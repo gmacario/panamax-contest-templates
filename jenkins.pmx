@@ -1,0 +1,10 @@
+---
+name: Jenkins
+description: Panamax template to run Jenkins CI
+keywords: jenkins, ci
+type: Default
+documentation: ''
+images:
+- name: gmacario_docker-jenkins_latest
+  source: gmacario/docker-jenkins:latest
+  type: Default
